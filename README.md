@@ -1,6 +1,6 @@
 # counter_app
 
-A new Flutter project.
+A Counter Application
 
 ## Getting Started
 
